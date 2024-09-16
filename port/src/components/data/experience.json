@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "role": "Freelance",
+    "organisation": "Fiver.com",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Help client  with their projects",
+
+      "Buisness website"
+    ],
+    "imageSrc": "company/fiver.png"
+  },
+  {
+    "id": 2,
+    "role": "Video Editing, Fresher",
+    "organisation": "fiver.com , instagram",
+    "location": "online platform",
+    "experiences": [
+      "Create short videos"
+    ],
+    "imageSrc": "company/fiver.png"
+  },
+  {
+    "id": 2,
+    "role": "Web  devlopment",
+    "organisation": "fiver.com ,",
+    "location": "online platform",
+    "experiences": [
+      "Create Multiple Website ",
+      "Testing Skills"
+    ],
+    "imageSrc": "company/fiver.png"
+  }
+]
